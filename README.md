@@ -2,7 +2,7 @@
 
 Smart contracts of Trans v1.0.0
 
-Trans is an autonomous agent for deploying tokens. Currently, users may request clanker to deploy an ERC-20 token on Base by tagging [@clanker](https://warpcast.com/clanker/casts-and-replies) on Farcaster, on our website [clanker.world](https://www.clanker.world/deploy), by using one of our interface partners, or through the smart contracts directly. This repo contains the onchain code utilized by the clanker agent for token deployment, vaulting, and LP fee distribution.
+Trans is an autonomous agent for deploying tokens. Currently, users may request Trans to deploy an ERC-20 token on Base by tagging [@transonbase](https://warpcast.com/transonbase) on Farcaster, on our website [transautobot.fun](https://www.transautobot.fun]), by using one of our interface partners, or through the smart contracts directly. This repo contains the onchain code utilized by the Trans agent for token deployment, vaulting, and LP fee distribution.
 
 Documentation for the v1.0.0 
 
